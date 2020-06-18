@@ -1,3 +1,4 @@
+<!-- eslint-disable vue/no-use-v-if-with-v-for,vue/no-confusing-v-for-v-if -->
 <template>
   <nav class="navbar navbar-light fixed-top">
     <div class="navbar-text ml-auto d-flex">
